@@ -4,7 +4,7 @@ https://thepi.io/how-to-install-raspbian-on-the-raspberry-pi/
 Main video to follow:
 https://www.youtube.com/watch?v=AJ7skYS5bjI
 
-API for raspberrypi at windows:
+API for raspberrypi for windows:
 https://mobaxterm.mobatek.net/download-home-edition.html
 
 IP scanner link:
